@@ -1,7 +1,7 @@
-# Ola-Community-Impact-Rides-PRD
+# Ola-Community-Impact-Rides
 ## Product Requirements Document (PRD)
-### Product Space Fellowship — Cohort Project
-### ⭐ Recognized as one of the best submissions of the cohort
+#### Product Space Fellowship — Cohort Project
+#### ⭐ Recognized as one of the best submissions of the cohort
 
 ## 📌 Overview
 Community Impact Rides is a product concept designed to integrate social impact directly into Ola's ride-booking experience.
